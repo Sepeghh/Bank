@@ -1,0 +1,3 @@
+admin,admin,BankManagerUser
+sepehr,jason,CustomerUser
+sepehr2,jason,BankTeller
